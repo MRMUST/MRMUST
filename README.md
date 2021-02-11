@@ -22,6 +22,8 @@ js ( 또는 node.js ), html, css, cpp, kotlin
 
 Acropolis : 그냥 디코봇 python
 
+hello world collection : 세상에 존재하는 모든 hello world를 담는 프로젝트 all
+
 Can Guy : 개재밌는 게임 cs
 
 5fps : 5프레임으로 돌아가는 게임 미완 cs
