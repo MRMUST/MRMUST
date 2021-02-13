@@ -6,11 +6,11 @@ hello world collection 만드는중 입니다.
 
 주로 하는 거
 
-python, cs
+python, cs, js ( 또는 node.js ), html, css
 
 서브
 
-js ( 또는 node.js ), html, css, cpp, kotlin
+cpp, kotlin
 
 헬로월드만 띄운 거
 
