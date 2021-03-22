@@ -9,6 +9,8 @@
 
 휴일 또는 명절일 경우가 아니라면 답변이 늦게 올 가능성이 있습니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRMUST)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRMUST&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRMUST&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
