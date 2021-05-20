@@ -7,7 +7,7 @@
 부계정 : [Click_Me!](https://github.com/PolyAst)
 
 문의
-디스코드 : 안녕#8752
+디스코드 : 안녕#3971
 
 이메일 : helper1177@gmail.com
 
